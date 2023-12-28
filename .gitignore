@@ -1,0 +1,3 @@
+notebooks/scratch-train-whisper.ipynb
+notebooks/.ipynb_checkpoints
+training/wandb
